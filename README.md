@@ -112,6 +112,7 @@ delay_ms(50);
 # OUTPUT:
 <img width="883" height="850" alt="image" src="https://github.com/user-attachments/assets/a6767ace-b327-4b5c-8ab1-9dbb2bb2fa5c" />
 
+<img width="1600" height="1038" alt="image" src="https://github.com/user-attachments/assets/4cd2066b-fbd2-47fb-b229-abbf57fa3679" />
 
 # RESULT:
 Thus interfacing STEPPER MOTOR with ARM processor LPC1768 is verified.
